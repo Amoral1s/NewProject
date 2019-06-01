@@ -1,8 +1,8 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;CAAG",
+    "mappings": "AAAA,AACE,CADD,CACC,IAAI,CAAC;EACH,gBAAgB,EAAE,IAAI;CAAG",
     "sources": [
-        "../NewProject/sass/main.sass"
+        "../sass/main.sass"
     ],
     "names": [],
     "file": "main.css"
